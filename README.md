@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=nikh1lss&style=flat-square&color=brightgreen)
+
 <!--
 **nikh1lss/nikh1lss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
