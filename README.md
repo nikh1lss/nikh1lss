@@ -1,6 +1,6 @@
 ## Hello👋
 
-[<img width="500" height="270" alt="image" src="https://github.com/user-attachments/assets/6d0e2b72-5058-4cda-a35f-a02a2ddd6c7d" />](https://www.pinterest.com/pin/311592867949385325/)
+![](https://i.pinimg.com/originals/ca/d6/5a/cad65a6bbb218cf41bacf267482f7afe.gif)
 
 ![](https://komarev.com/ghpvc/?username=nikh1lss&style=flat-square&color=brightgreen)
 
