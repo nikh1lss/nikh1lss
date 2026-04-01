@@ -1,4 +1,4 @@
-##👋
+## :)👋
 
 ![](https://komarev.com/ghpvc/?username=nikh1lss&style=flat-square&color=brightgreen)
 
