@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikh1lss&layout=compact)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=nikh1lss&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=nikh1lss&theme=gruvbox)
 
 <!--
 **nikh1lss/nikh1lss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
