@@ -2,12 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nikh1lss&style=flat-square&color=brightgreen)
 
-![](https://github-readme-stats.vercel.app/api?username=nikh1lss&show_icons=true&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikh1lss&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikh1lss&layout=compact)
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nikh1lss&theme=gruvbox)
 
 <!--
