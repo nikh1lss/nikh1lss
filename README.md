@@ -2,10 +2,6 @@
 
 ![](https://i.pinimg.com/originals/ca/d6/5a/cad65a6bbb218cf41bacf267482f7afe.gif)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=nikh1lss&theme=gruvbox)
-
-<img width="500" height="297" alt="image" src="https://github.com/user-attachments/assets/b72acfac-b722-4bba-a1a7-9ebe58951643" />
-
 <!--
 **nikh1lss/nikh1lss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
