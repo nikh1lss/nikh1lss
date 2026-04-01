@@ -2,6 +2,9 @@
 
 ![](https://i.pinimg.com/originals/ca/d6/5a/cad65a6bbb218cf41bacf267482f7afe.gif)
 
+MSc Software Engineering @ UniMelb, specializing in distributed systems. Java OTP
+
+Check out my [dotfiles]([link](https://github.com/nikh1lss/.config)) :)
 <!--
 **nikh1lss/nikh1lss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
