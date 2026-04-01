@@ -2,8 +2,6 @@
 
 ![](https://i.pinimg.com/originals/ca/d6/5a/cad65a6bbb218cf41bacf267482f7afe.gif)
 
-![](https://komarev.com/ghpvc/?username=nikh1lss&style=flat-square&color=brightgreen)
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nikh1lss&theme=gruvbox)
 
 <img width="500" height="297" alt="image" src="https://github.com/user-attachments/assets/b72acfac-b722-4bba-a1a7-9ebe58951643" />
