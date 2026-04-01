@@ -10,11 +10,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nikh1lss&theme=tokyo-night)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&lines=Full+Stack+Developer;Open+Source+Enthusiast)
-
 <!--
 **nikh1lss/nikh1lss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
