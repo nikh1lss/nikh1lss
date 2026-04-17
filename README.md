@@ -6,5 +6,4 @@ MEng Software Engineering @ UniMelb, specializing in distributed systems. Java O
 
 [dotfiles](https://github.com/nikh1lss/.config) :)
 
-<img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/static/logos/neovim-mark.svg" width="39" alt="Neovim" />
-<img src="https://cdn.simpleicons.org/debian/A81D33" width="48" height="48" alt="Debian" /> 
+<img src="https://cdn.simpleicons.org/debian/A81D33" width="48" height="48" alt="Debian" />   <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/static/logos/neovim-mark.svg" width="39" alt="Neovim" />
